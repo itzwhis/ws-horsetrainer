@@ -7,7 +7,7 @@ Premium RedM & FiveM scripts — cowboys by day, coders by night.
 [![Discord](https://img.shields.io/badge/Discord-Join%20WS%20Scripts-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vxBHBUD4du)
 ![RedM](https://img.shields.io/badge/RedM-rdr3-red?style=for-the-badge)
 ![Framework](https://img.shields.io/badge/framework-rsg--core-blue?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-2.3.3-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-2.0.1-green?style=for-the-badge)
 ![Lua](https://img.shields.io/badge/Lua-5.4-blueviolet?style=for-the-badge)
 
 # WS Horse Trainer

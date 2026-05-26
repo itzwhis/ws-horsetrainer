@@ -1,0 +1,12 @@
+{
+    "xp_gained": "Horse XP",
+    "jump_start": "Start Jump Training",
+    "jump_leaderboard": "Leaderboard",
+    "jump_progress": "Jump %s/%s",
+    "jump_perfect": "PERFECT JUMP!",
+    "jump_course_done": "Course complete",
+    "jump_cooldown": "Cooldown: wait %ss",
+    "jump_must_mount": "You must mount your active horse first",
+    "jump_dismounted": "Training cancelled: you dismounted",
+    "jump_timeup": "Training cancelled: time up"
+}

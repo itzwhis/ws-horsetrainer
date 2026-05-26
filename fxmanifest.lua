@@ -3,7 +3,7 @@ rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aw
 game 'rdr3'
 
 description 'ws-horsetrainer | wsscripts  [inspired by rex-horsetraing rsg framework]'
-version '2.3.3'
+version '2.0.1'
 
 shared_scripts {
     '@ox_lib/init.lua',
